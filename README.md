@@ -48,4 +48,4 @@ Try different combinations/values for the parameters in random sampling (or even
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
 
-![alt text](https://github.com/nsourlos/optimizing_a_ML_pipeline_Project1 /blob/main/deletion.png)
+![alt text](https://github.com/nsourlos/optimizing_a_ML_pipeline_Project1/blob/main/deletion.png)
